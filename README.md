@@ -43,4 +43,4 @@ Interested parties can interact with the dashboard by following these steps:
 
 
 
-![Alt Text](https://github.com/smitkevadiya50/Credit-card-Fraud-Analysis-Using-PowerBI/blob/main/Credit%20card%20Fraud%20Analysis.png)
+![Alt Text](https://github.com/Bijaya1000/Credit-Card-Fraud_Analysis-Using-PowerBI/blob/main/Credit%20card%20Fraud%20Analysis.png)
